@@ -136,4 +136,12 @@ Speaker
 WiFi Robo*
 
 
-tech hat innovators project ideas
+tech hat innovators project ideas(2024)
+
+1. to produce light using tesla coil
+2.Electricity  using footstep
+3.Gps shoe for andha aadmi
+4.fire brigade drone
+5.electricity generation through burning paper
+6.Hyperloop or maglev train
+7. laser security system
