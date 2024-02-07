@@ -145,5 +145,5 @@ IDEA NAME                                                       CONPONENTS NEEDE
 4.drone for helping fire brigade 
 5.electricity generation through burning paper
 6.Hyperloop or maglev train
-7. laser security system
+7.laser security system
 8. FACE RECOGNITION DOOR
