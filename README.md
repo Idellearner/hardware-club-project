@@ -141,8 +141,8 @@ IDEA NAME                                                       CONPONENTS NEEDE
 1. to produce light using tesla coil
                                                              
 2.Electricity  using footstep
-3.Gps shoe for andha aadmi
-4.fire brigade drone
+3.Gps shoe for blind people
+4.drone for helping fire brigade 
 5.electricity generation through burning paper
 6.Hyperloop or maglev train
 7. laser security system
