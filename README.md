@@ -136,6 +136,9 @@ Speaker
 WiFi Robo*
 
 
+The ideas should be something that solves a real life problem,cheap, easy to understand to the local person. 
+
+
 tech hat innovators project ideas(2024)
 IDEA NAME                                                       CONPONENTS NEEDED                                                              APPROX BUDGET
 1. to produce light using tesla coil
