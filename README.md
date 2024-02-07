@@ -146,4 +146,4 @@ IDEA NAME                                                       CONPONENTS NEEDE
 5.electricity generation through burning paper
 6.Hyperloop or maglev train
 7.laser security system
-8. FACE RECOGNITION DOOR
+8.FACE RECOGNITION DOOR
