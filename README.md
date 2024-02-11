@@ -151,3 +151,4 @@ IDEA NAME                                                       CONPONENTS NEEDE
 7.laser security system
 8.FACE RECOGNITION DOOR
 9. Ai algorithms
+10.drone
