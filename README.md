@@ -150,4 +150,4 @@ IDEA NAME                                                       CONPONENTS NEEDE
 6.Hyperloop or maglev train
 7.laser security system
 8.FACE RECOGNITION DOOR
-9. Ai model
+9. Ai algorithms
