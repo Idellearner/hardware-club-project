@@ -133,7 +133,7 @@ Car parking system
 A Step Towards The Future
 Make_it_easy
 Speaker 
-WiFi Robo*
+WiFi Robo
 
 
 The ideas should be something that solves a real life problem,cheap, easy to understand to the local person. 
